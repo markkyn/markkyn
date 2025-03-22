@@ -1,6 +1,7 @@
 <h1 align="center">🌵M̷a̵r̷k̶k̸y̵n̴'̸s̸  W̸o̶r̸l̴d̴~🌴</h1>
 <div align="center">
 <img id="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img id="CPP" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
 <img id="x86" src="https://img.shields.io/badge/x86 Assembly-252526?style=for-the-badge"/>
 <img id="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 <img id="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
