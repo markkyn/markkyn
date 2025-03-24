@@ -1,4 +1,4 @@
-<h1 align="center">🌵M̷a̵r̷k̶k̸y̵n̴'̸s̸  W̸o̶r̸l̴d̴~🌴</h1>
+<h1 align="center">🌵M̷a̵r̷k̶k̸y̵n̴'̸s̸ 🌴</h1>
 <div align="center">
 <img id="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img id="CPP" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
