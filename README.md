@@ -7,7 +7,7 @@
         </td>
         <td>
             <picture>
-                <img src="./crap.png" style="max-width: 200px; width: 100%;">
+                <img src="./crap.png" style="max-width: 200px;">
             </picture>
         </td>
     </tr>
