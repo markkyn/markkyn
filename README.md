@@ -1,11 +1,17 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<style>
+    table, tr, td {border: none;}
+    .metrics {border-bottom:1px solid #EEE;}
+    .image {border-top:1px solid #CCC;}
+</style>
+
+<table cellspacing="0" cellpadding="0">
     <tr>
-        <td>
+        <td class="metrics">
             <picture>
                 <img src="./github-metrics.svg"/>
             </picture>
         </td>
-        <td>
+        <td class="image">
             <picture>
                 <img src="./crap.png" style="max-width: 200px;">
             </picture>
