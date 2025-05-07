@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
             <picture>
@@ -7,7 +7,7 @@
         </td>
         <td>
             <picture>
-                <img src="./crap.png" style="max-width: 400px; width: 100%;">
+                <img src="./crap.png" style="max-width: 200px; width: 100%;">
             </picture>
         </td>
     </tr>
