@@ -1,9 +1,10 @@
-<style>
-    table, tr, td {border: none;}
-    .metrics {border-bottom:1px solid #EEE;}
-    .image {border-top:1px solid #CCC;}
-</style>
-
+<head>
+    <style>
+        table, tr, td {border: none;}
+        .metrics {border-bottom:1px solid #EEE;}
+        .image {border-top:1px solid #CCC;}
+    </style>
+</head>
 <table cellspacing="0" cellpadding="0">
     <tr>
         <td class="metrics">
