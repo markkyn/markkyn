@@ -13,8 +13,6 @@
     </tr>
 </table>
 <!--START_SECTION:waka-->
-**I Mostly Code in Python** 
-
 ```text
 Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
