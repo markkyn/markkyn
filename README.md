@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 149.1 kB Used in GitHub's Storage 
+> 📦 160.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,5 +83,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/markkyn/markkyn/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2025 18:49:10 UTC
+ Last Updated on 10/05/2025 18:45:52 UTC
 <!--END_SECTION:waka-->
