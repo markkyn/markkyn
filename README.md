@@ -25,18 +25,18 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in C** 
 
 ```text
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 31/05/2025 $H:46 UTC
+ Last Updated on 01/06/2025 $H:47 UTC
 <!--END_SECTION:waka-->
