@@ -28,15 +28,15 @@ No Activity Tracked This Week
 **I Mostly Code in C** 
 
 ```text
-C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 24/08/2025 $H:47 UTC
+ Last Updated on 25/08/2025 $H:50 UTC
 <!--END_SECTION:waka-->
