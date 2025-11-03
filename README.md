@@ -13,16 +13,6 @@
     </tr>
 </table>
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -36,5 +26,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 $H:44 UTC
+ Last Updated on 03/11/2025 $H:47 UTC
 <!--END_SECTION:waka-->
