@@ -13,8 +13,6 @@
     </tr>
 </table>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -38,5 +36,5 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 $H:46 UTC
+ Last Updated on 16/11/2025 $H:47 UTC
 <!--END_SECTION:waka-->
