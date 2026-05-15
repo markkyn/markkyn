@@ -13,30 +13,18 @@
     </tr>
 </table>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+SCSS                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 $H:15 UTC
+ Last Updated on 15/05/2026 $H:02 UTC
 <!--END_SECTION:waka-->
