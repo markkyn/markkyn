@@ -13,6 +13,18 @@
     </tr>
 </table>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -26,5 +38,5 @@ SCSS                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 $H:56 UTC
+ Last Updated on 29/05/2026 $H:58 UTC
 <!--END_SECTION:waka-->
